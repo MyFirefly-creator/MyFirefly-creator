@@ -9,7 +9,7 @@
 <br/>
  
 <div align="center"> 
-  <a href="mailto:Firefly.Creator.bdiwuputra@gmail.com">
+  <a href="mailto:bdiwuputra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/bagas-diwu-putra-79ba9a331/" target="_blank">
